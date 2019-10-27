@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_221">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/jre1.8.0_221/lib/ext/mysql-connector.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/w5087104/Pictures/ADH Project/jar_files/twitter4j-core-4.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/w5087104/Pictures/ADH Project/Java/wildfly-10.0.0.Final"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
