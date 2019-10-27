@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>twitterBackend</name>
 	<comment></comment>
 	<projects>
@@ -50,5 +51,28 @@
 		<nature>org.jboss.tools.jst.web.kb.kbnature</nature>
 		<nature>org.jboss.tools.cdi.core.cdinature</nature>
 		<nature>org.jboss.tools.ws.jaxrs.nature</nature>
+=======
+	<name>twitter</name>
+	<comment></comment>
+	<projects>
+		<project>twitterBackend</project>
+		<project>twitterFrontend</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+>>>>>>> branch 'master' of https://github.com/Tumedi/ADH401T_Project_211071133.git
 	</natures>
 </projectDescription>

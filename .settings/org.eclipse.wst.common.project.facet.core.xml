@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
   <runtime name="WildFly 10.x Runtime"/>
+<<<<<<< HEAD
   <fixed facet="jst.ejb"/>
   <fixed facet="java"/>
   <installed facet="java" version="1.8"/>
@@ -8,4 +9,8 @@
   <installed facet="jst.ejb" version="3.2"/>
   <installed facet="jst.jaxrs" version="1.1"/>
   <installed facet="jst.cdi" version="2.0"/>
+=======
+  <fixed facet="jst.ear"/>
+  <installed facet="jst.ear" version="7.0"/>
+>>>>>>> branch 'master' of https://github.com/Tumedi/ADH401T_Project_211071133.git
 </faceted-project>
